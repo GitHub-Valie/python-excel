@@ -17,10 +17,6 @@ The goal of this project is to demonstrate what can be done by combining Python 
 
 ## How to use the project
 
-### Clone the project
-
-[insert image]
-
 ### Create a virtual environment
 
 Open Windows powershell and navigate to the cloned repository
