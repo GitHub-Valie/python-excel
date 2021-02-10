@@ -12,9 +12,26 @@ The world market analyzer is a project that aims at centralizing as much market 
 
 Fund information (country, name, symbol, issuer, isin, asset class, currency, inception date, 1-year % change, risk rating, ROE, ROA, total assets, expenses, minimum investment, market capitalization, category) and quantitative data (daily price data, OHLCV format)
 
-* 
+* Indices:
+
+Index name, previous close, volume, daily range, open, 52-week range, 1-year change
+
+* Stocks: 
+
+Stock symbol, previous close, daily range, revenue, open, 52-week range, Eearnings Per Share, Volume, Market Capitalization, Dividend Yield, Average Volume, PE Ratio, Beta, 1-year change, Next earnings date and OHLCV daily data
+
+* Government bonds:
+
+Bond name (maturity date: 30y, 20y, 15y, 10y, 9y, 7y, 6y, 5y, 4y, 3y, 2y, 1y, 6months, 3months) and interest rates
+
+* Exchange Traded Funds (ETFs):
+
+ETF name, previous close, daily range, ROI, Open, 52-week range, Volume, Total assets, Beta, 1-year change. (No OHLCV data)
+
 
 ### Yet to implement
+
+* Cryptocurrencies
 
 ## Disclaimer
 
