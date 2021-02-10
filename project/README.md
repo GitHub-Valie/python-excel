@@ -33,4 +33,4 @@ In the Home sheet, use the table to choose the country of your choice for the as
 
 Example: All funds in Luxembourg 
 
-![](images\ma1.png)
+<img src="images\ma1.png">
