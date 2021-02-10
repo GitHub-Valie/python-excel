@@ -13,7 +13,7 @@ As Excel is still more used than Python, and many people do not know how to code
 
 ## What is this project about
 
-The goal of this project is to demonstrate what can be done by combining Python and Excel. Because of my studies in finance, this demonstration will have a financial dimension to it: We will import price data from exchanges, process it and 
+The goal of this project is to demonstrate what can be done by combining Python and Excel. Because of my studies in finance, this demonstration will have a financial dimension to it: We will import price data from exchanges and organize it
 
 ## How to use the project
 
