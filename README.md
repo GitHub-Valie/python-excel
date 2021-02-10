@@ -27,4 +27,10 @@ Create a virtual environment with ```python -m venv venv``` and activate it with
 
 Install all dependencies using ```pip install requirements.txt```
 
+```python -m ipykernel install --user --name=venv```
 
+## xlwings Excel addin
+
+In the ```/venv``` directory you will find two xlwings .dll files. Move them to ```/venv/Scripts```
+
+Check your version of xlwings with ```pip list``` and go to https://github.com/xlwings/xlwings/releases to download the appropriate .xlam file
