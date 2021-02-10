@@ -8,9 +8,11 @@ The world market analyzer is a project that aims at centralizing as much market 
 
 ### Implemented
 
-* Funds for a wide variety of countries
-- Fund information ()
-- Fund quantitative data ()
+* Funds:
+
+Fund information (country, name, symbol, issuer, isin, asset class, currency, inception date, 1-year % change, risk rating, ROE, ROA, total assets, expenses, minimum investment, market capitalization, category) and quantitative data (daily price data, OHLCV format)
+
+* 
 
 ### Yet to implement
 
@@ -34,3 +36,19 @@ In the Home sheet, use the table to choose the country of your choice for the as
 Example: All funds in Luxembourg 
 
 <img src="https://github.com/GitHub-Valie/python-excel/blob/main/images/ma1.png">
+
+### Step 3 / Select asset name
+
+Select the name of the asset you wish to get info for and click "Get 'asset' Info"
+
+<img src="https://github.com/GitHub-Valie/python-excel/blob/main/images/ma2.png">
+
+This will generate a range of informations in the respective asset sheet (in this example, 'funds' sheet)
+
+<img src="https://github.com/GitHub-Valie/python-excel/blob/main/images/ma3.png">
+
+### Step 4 / Get historical price data
+
+With the same principle, click "Get Historical data" to get price data for the chosen asset.
+
+<img src="https://github.com/GitHub-Valie/python-excel/blob/main/images/ma4.png">
